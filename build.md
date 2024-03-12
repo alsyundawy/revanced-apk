@@ -1,15 +1,15 @@
 Music (arm64-v8a): 6.42.55  
-YouTube: 19.04.37  
-Twitter: 10.31.0-release.0  
-Reddit: 2024.10.1  
-Messenger: 448.0.0.47.109  
+Twitch: 16.9.1  
+TikTok: 32.5.3  
 Spotify: 8.9.20.574  
 YouTube-Extended: 19.09.37  
 WarnWetter: 4.2.2  
-CandyVPN: 3.3.1  
 com.zombodroid.MemeGenerator: 4.6377  
-TikTok: 32.5.3  
-Twitch: 16.9.1  
+CandyVPN: 3.3.1  
+Nova-Launcher: 7.0.58  
+Reddit: 2024.10.1  
+YouTube: 19.04.37  
+Twitter: 10.31.0-release.0  
 
 Install [inotia00 Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
