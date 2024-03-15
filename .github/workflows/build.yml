@@ -20,7 +20,7 @@ jobs:
           java-version: "17"
 
       - name: Checkout
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@cd7d8d697e10461458bc61a30d094dc601a8b017
         with:
           fetch-depth: 0
           submodules: true
@@ -100,7 +100,7 @@ jobs:
 
           find . -name "*-update.json" | grep . || : >dummy-update.json
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@9b5e5ee10a5c7b2e05d5f25da265a1c73b24e6a6
         with:
           branch: update
           skip_checkout: true
