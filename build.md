@@ -1,14 +1,14 @@
+YouTube: 19.04.37  
+YouTube-Extended: 19.09.37  
 Twitter: 10.31.0-release.0  
-Twitch: 16.9.1  
-Reddit: 2024.11.0  
-Music (arm64-v8a): 6.43.52  
+Music: 6.43.52  
 Messenger: 449.0.0.47.111  
 Spotify: 8.9.22.539  
-YouTube-Extended: 19.09.37  
 WarnWetter: 4.2.2  
 com.zombodroid.MemeGenerator: 4.6377  
 CandyVPN: 3.3.1  
-YouTube: 19.04.37  
+Reddit: 2024.11.0  
+Twitch: 16.9.1  
 TikTok: 32.5.3  
 
 Install [inotia00 Vanced Microg](https://github.com/inotia00/VancedMicroG/releases) for non-root YouTube and YT Music  
