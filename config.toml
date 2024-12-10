@@ -12,14 +12,14 @@ included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" 
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 [Music]
 build-mode = "apk"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
 arch = "both"
 
 [Music-Extended]
@@ -31,7 +31,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
 arch = "both"
 
 [YouTube-Extended]
@@ -43,7 +43,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" 
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 [Reddit-Extended]
 patches-source = "inotia00/revanced-patches"
@@ -52,7 +52,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
 
 [Music-anddea]
 enabled = true
@@ -64,7 +64,7 @@ rv-brand = "anddea"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
 arch = "both"
 
 [YouTube-anddea]
@@ -77,21 +77,21 @@ rv-brand = "anddea"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube" 
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 [Twitter]
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+
 arch = "all"
 
 [Twitch]
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+
 arch = "both"
 
 [TikTok]
